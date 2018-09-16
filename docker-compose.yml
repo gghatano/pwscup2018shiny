@@ -2,7 +2,7 @@ version: '3'
 
 services:
  pwscup2018shiny:
-  image: pwscupadmin/pwscup2018shiny:1.2
+  image: pwscupadmin/pwscup2018shiny:1.3
   tty: true
   container_name: pwscup2018shiny
   ports:
