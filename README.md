@@ -8,9 +8,9 @@ PWSCUP2018 フォーマットチェッカー (Ver. 1.4)
 $ docker-compose up -d
 ```
 
-2. ブラウザで http://localhost:3838/pwscup2018webapp/  にアクセス
+2. ブラウザで http://localhost:3838/pwscup2018webapp/  にアクセスします
 
-3. 評価したいデータをアップロードする
+3. 評価したいデータをアップロードします
 
 - Aの有用性・安全性評価
 ![匿名加工データの有用性・安全性評価](./checker_A.png)
