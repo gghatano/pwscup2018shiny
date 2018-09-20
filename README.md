@@ -27,3 +27,6 @@ $ docker-compose up -d
 - 公式Twitter: https://twitter.com/PWScup_Admin
 - 大会運営ML 
 
+## メモ
+- 2018/09/20 データアップロード上限サイズを50MBにしました
+- 2018/09/20 有用性評価が正しく出来ないバグを修正しました
